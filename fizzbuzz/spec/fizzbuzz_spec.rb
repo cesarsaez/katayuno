@@ -38,7 +38,7 @@ class Numbers
     end
 
     def calculate(mynumber)
-        return "Fizz" if mynumber == 3      
+        return "Fizz" if mynumber == 3    
         "Buzz"
     end
 
